@@ -10,8 +10,8 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 import { keyframes } from '@emotion/react';
 
 const SOCIAL_LINKS = [
-  { icon: <GitHubIcon />, label: 'GitHub', url: 'https://github.com/your-profile' },
-  { icon: <TwitterIcon />, label: 'Twitter', url: 'https://twitter.com/your-profile' },
+  { icon: <GitHubIcon />, label: 'GitHub', url: 'https://github.com/Maxd646' },
+  { icon: <TwitterIcon />, label: 'Twitter', url: 'https://x.com/GashawDaniel17' },
   { icon: <LinkedInIcon />, label: 'LinkedIn', url: 'https://linkedin.com/in/your-profile' },
   { icon: <EmailIcon />, label: 'Email', url: 'mailto:your@email.com' },
 ];
