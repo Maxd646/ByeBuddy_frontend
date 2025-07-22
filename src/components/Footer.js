@@ -301,7 +301,7 @@ export default function Footer() {
       }}>
         <Typography variant="body2" color="text.secondary" sx={{ fontWeight: 600, mb: 1 }}>
           © {new Date().getFullYear()} ByeBuddy &nbsp;|&nbsp;
-          <MuiLink href="https://github.com/your-repo-url" target="_blank" rel="noopener" underline="hover" color="inherit">
+          <MuiLink href="https://github.com/Maxd646" target="_blank" rel="noopener" underline="hover" color="inherit">
             <GitHubIcon sx={{ verticalAlign: 'middle', fontSize: 20, mb: '2px' }} /> View on GitHub
           </MuiLink>
         </Typography>
