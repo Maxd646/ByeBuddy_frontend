@@ -12,8 +12,8 @@ import { keyframes } from '@emotion/react';
 const SOCIAL_LINKS = [
   { icon: <GitHubIcon />, label: 'GitHub', url: 'https://github.com/Maxd646' },
   { icon: <TwitterIcon />, label: 'Twitter', url: 'https://x.com/GashawDaniel17' },
-  { icon: <LinkedInIcon />, label: 'LinkedIn', url: 'https://linkedin.com/in/your-profile' },
-  { icon: <EmailIcon />, label: 'Email', url: 'mailto:your@email.com' },
+  { icon: <LinkedInIcon />, label: 'LinkedIn', url: '' },
+  { icon: <EmailIcon />, label: 'Email', url: 'ethiomiracle2017@gmail.com' },
 ];
 
 const PROMOTED = [
