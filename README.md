@@ -78,7 +78,7 @@ follow-insight/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/follow-insight.git
+git clone https://github.com/Maxd646/ByeBuddy_frontend.git
 cd follow-insight/frontend
 
 # 2. Install dependencies
@@ -219,11 +219,10 @@ Make sure to update `REACT_APP_API_URL` to your production backend domain in `.e
 
 ## 🧑‍💻 Author
 
-Made with 💙 by **[Your Name]**
+Made with 💙 by **Daniel Kebede**
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- Email: youremail@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- GitHub: [https://github.com/Maxd646](https://github.com/Maxd646)
+- Email: ethiomiracle2017@gmail.com
 
 ---
 
